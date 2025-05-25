@@ -1,0 +1,5 @@
+Hoje aprendi sobre manipulação de arquivos.
+Python facilita muito o trabalho com arquivos.
+Este é um exercício prático de escrita e leitura.
+Adicionar conteúdo é simples com 'a'.
+Agora o arquivo tem 5 frases.
